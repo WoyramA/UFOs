@@ -8,17 +8,20 @@ file:///C:/Users/Woyram/Desktop/Columbia%20DA%20BC%202022/Week%2012-%20JavaScrip
 
 ## Results
 ### UFO webpage
-
+The webpge header and body of text regarding UFO sightings was successfully loaded and is captured in the image below.
 ![image](https://user-images.githubusercontent.com/114967995/228996164-edc1c334-8d8c-4f52-989b-1cc392b3f7a8.png)
 
 ### Dynamic table
-
+The UFO webpage successfully load the dynamic table for the year 2010 by date, city, state, country, shape, duration and comments, shown below.
 ![image](https://user-images.githubusercontent.com/114967995/228996197-eafa4797-e384-451d-9110-eeb653e758ae.png)
 
 ### Filtering UFO sightings by a specific date
 Three UFO sightings were observed on January 13th, 2010 in Pennsylvania, Mississippi and Florida as shown below in image.
 ![image](https://user-images.githubusercontent.com/114967995/228996255-74d65593-37cb-41a7-8611-52c0cac29510.png)
 
+### Filtering UFO sightings by city
+When the table is filtered by city, el-cajon returns four UFO sightings in 2010 as shown below.
+![image](https://user-images.githubusercontent.com/114967995/229007996-379ef7f5-2686-4379-85d7-4ae20dc2e05f.png)
 
 ### Filtering UFO sightings by state
 Filtering the table by State, the State of Arkansas sighted three UFOs in 2010 as shown in the image below.
