@@ -4,7 +4,6 @@
 ## Overview 
 A Webpage was created for UFO sightings using Javascript, HTML and CSS. The UFO webpage was successfully loaded so users can filter through the data across multiple criteria such as date, city, state, county and shape. 
 
-file:///C:/Users/Woyram/Desktop/Columbia%20DA%20BC%202022/Week%2012-%20JavaScript/Weekly%20Challenge%2012/UFOs/Deliverable/web/index.html
 
 ## Results
 ### UFO webpage
@@ -33,4 +32,4 @@ Filtering the data on the UFO webpage via shape returned results that showed tha
 
 
 ## Summary
-The UFO webpage created was fully functional and allowed details pertaining to UFO sightings to be filtered by date, city, state, country and shape for the year 2010. The filter function was tested and the dynamic table recalled the results as expected. 
+The UFO webpage created was fully functional and allowed details pertaining to UFO sightings to be filtered by date, city, state, country and shape for the year 2010. The filter function was tested and the dynamic table recalled the results as expected. California happened to have the most UFO sightings in 2010 of 30.
