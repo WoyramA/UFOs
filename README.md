@@ -1,18 +1,18 @@
 # UFOs
-A Webpage was created for UFO sightings using Javascript, HTML and CSS. The UFO webpage was successfully loaded so users can filter through the data across multiple criteria such as date, city, state, county and shape. 
+
 
 ## Overview 
-
+A Webpage was created for UFO sightings using Javascript, HTML and CSS. The UFO webpage was successfully loaded so users can filter through the data across multiple criteria such as date, city, state, county and shape. 
 
 file:///C:/Users/Woyram/Desktop/Columbia%20DA%20BC%202022/Week%2012-%20JavaScript/Weekly%20Challenge%2012/UFOs/Deliverable/web/index.html
 
 ## Results
 ### UFO webpage
-The webpge header and body of text regarding UFO sightings was successfully loaded and is captured in the image below.
+The webpge header, title and body of text regarding UFO sightings was successfully loaded and is captured in the image below.
 ![image](https://user-images.githubusercontent.com/114967995/228996164-edc1c334-8d8c-4f52-989b-1cc392b3f7a8.png)
 
 ### Dynamic table
-The UFO webpage successfully load the dynamic table for the year 2010 by date, city, state, country, shape, duration and comments, shown below.
+The UFO webpage also includes the dynamic table for the year 2010 by date, city, state, country, shape, duration and comments, shown below.
 ![image](https://user-images.githubusercontent.com/114967995/228996197-eafa4797-e384-451d-9110-eeb653e758ae.png)
 
 ### Filtering UFO sightings by a specific date
@@ -33,3 +33,4 @@ Filtering the data on the UFO webpage via shape returned results that showed tha
 
 
 ## Summary
+The UFO webpage created was fully functional and allowed details pertaining to UFO sightings to be filtered by date, city, state, country and shape for the year 2010. The filter function was tested and the dynamic table recalled the results as expected. 
