@@ -4,8 +4,6 @@
 ## Overview 
 A Webpage was created for UFO sightings using Javascript, HTML and CSS. The UFO webpage was successfully loaded so users can filter through the data across multiple criteria such as date, city, state, county and shape. 
 
-"C:\Users\Woyram\Desktop\Columbia DA BC 2022\Week 12- JavaScript\Weekly Challenge 12\UFOs\Deliverable\web\index.html"
-
 
 ## Results
 ### UFO webpage
