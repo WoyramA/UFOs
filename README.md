@@ -16,7 +16,17 @@ file:///C:/Users/Woyram/Desktop/Columbia%20DA%20BC%202022/Week%2012-%20JavaScrip
 ![image](https://user-images.githubusercontent.com/114967995/228996197-eafa4797-e384-451d-9110-eeb653e758ae.png)
 
 ### Filtering UFO sightings by a specific date
+Three UFO sightings were observed on January 13th, 2010 in Pennsylvania, Mississippi and Florida as shown below in image.
 ![image](https://user-images.githubusercontent.com/114967995/228996255-74d65593-37cb-41a7-8611-52c0cac29510.png)
+
+
+### Filtering UFO sightings by state
+Filtering the table by State, the State of Arkansas sighted three UFOs in 2010 as shown in the image below.
+![image](https://user-images.githubusercontent.com/114967995/229005161-9b4f694a-96cc-4723-99c8-d698618e3552.png)
+
+### Filtering UFO sightings by shape
+Filtering the data on the UFO webpage via shape returned results that showed that a large number of sightings of triangular shape were observed as shown below.
+![image](https://user-images.githubusercontent.com/114967995/229006965-4af2ac5b-aea5-42b4-ac6b-75825dc1e8af.png)
 
 
 ## Summary
