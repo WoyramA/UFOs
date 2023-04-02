@@ -33,3 +33,4 @@ Filtering the data on the UFO webpage via shape returned results that showed tha
 
 ## Summary
 The UFO webpage created was fully functional and allowed details pertaining to UFO sightings to be filtered by date, city, state, country and shape for the year 2010. The filter function was tested and the dynamic table recalled the results as expected. California happened to have the most UFO sightings in 2010 of 30.
+One draw back with the new design of the website is the absence of the previous filter button. I would recommend keeping the extra filter button, moving forward and also using a library that spans across a wider timeframe as compared to the current one which is only for 2010.
